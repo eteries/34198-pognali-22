@@ -1,7 +1,7 @@
 # Личный проект «Погнали» 
 
-* Студент: [eteries](https://up.htmlacademy.ru/adaptive/22/user/34198).
-* Наставник: `Неизвестно`.
+* Студент: [Сергей Яньшин](https://up.htmlacademy.ru/adaptive/22/user/34198).
+* Наставник: [Лиза Пак](https://htmlacademy.ru/profile/lizzy).
 
 ---
 
